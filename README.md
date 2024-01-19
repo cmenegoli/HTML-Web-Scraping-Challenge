@@ -14,9 +14,9 @@ In Part 1, we employ web scraping techniques to retrieve up-to-date Mars news ti
 
 # Process
 
-* 1. Automated Website Visit: We use automated web browsing techniques to access the Mars news site.
-* 2. Data Scraping: A Beautiful Soup object is created to extract text elements from the website.
-* 3. Results Storage: The extracted news article titles and previews are stored in Python data structures.
+1. Automated Website Visit: We use automated web browsing techniques to access the Mars news site.
+2. Data Scraping: A Beautiful Soup object is created to extract text elements from the website.
+3. Results Storage: The extracted news article titles and previews are stored in Python data structures.
 
 ## Part 2: Mars Weather Data Scraping and Analysis
 
@@ -26,12 +26,12 @@ The second part of this project involves scraping and analyzing Mars weather dat
 
 # Process
 
-* 1. Automated Website Visit: We again utilize automated web browsing, this time to access a Mars Temperature Data Site.
-* 2. Table Data Scraping: Data from an HTML table is extracted using Beautiful Soup.
-* 3. Data Organization: The scraped data is structured into a Pandas DataFrame.
-* 4. Data Preparation: Data types are examined and converted as required.
-* 5. Data Analysis: We answer key questions using Pandas functions and create data visualizations for better understanding.
-* 6. Data Storage: The data is saved to a CSV file.
+1. Automated Website Visit: We again utilize automated web browsing, this time to access a Mars Temperature Data Site.
+2. Table Data Scraping: Data from an HTML table is extracted using Beautiful Soup.
+3. Data Organization: The scraped data is structured into a Pandas DataFrame.
+4. Data Preparation: Data types are examined and converted as required.
+5. Data Analysis: We answer key questions using Pandas functions and create data visualizations for better understanding.
+6. Data Storage: The data is saved to a CSV file.
 
 ## Usage
 
